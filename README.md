@@ -6,9 +6,3 @@ install the following packages:
 4) 4) pip install flask
 To run the project : python main.py
 
-TEAM NAME:ASTRO ASPIRE
-TEAM MEMBER:
-priyanka c
-madhu manju s
-midhuna vardhini
-COLLEGE NAME:ST.JOSEPH'S COLLEGE OF ENGINEERING
